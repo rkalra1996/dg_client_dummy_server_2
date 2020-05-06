@@ -1,0 +1,85 @@
+{
+"status":200,
+"data": {
+        "stats": {
+            "Sessions": "5,128",
+            "Feedback responses": "4,256",
+            "Farmers interacted": "65,436",
+            "Active VRPs on field": "431"
+        },
+        "questions": [
+            {
+                "id": 1,
+                "label": "What needs to be improved in video content and dissemination ?",
+                "topics": [
+                    {
+                        "title": "Video time",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                        "accuracy_percentage": "73",
+                        "feedback_percentage": "35"
+                    },
+                    {
+                        "title": "Rains and Roads",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                        "accuracy_percentage": "79",
+                        "feedback_percentage": "25"
+                    },
+                    {
+                        "title": "Others",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                        "accuracy_percentage": "80",
+                        "feedback_percentage": "40"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "label": "What needs to be improved in video content and dissemination ?",
+                "topics": [
+                    {
+                        "title": "Market accesibility",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                        "accuracy_percentage": "69",
+                        "feedback_percentage": "30"
+                    },
+                    {
+                        "title": "Fertilisers scarcity",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                        "accuracy_percentage": "73",
+                        "feedback_percentage": "30"
+                    },
+                    {
+                        "title": "Others",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                        "accuracy_percentage": "83",
+                        "feedback_percentage": "40"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "label": "What needs to be improved in video content and dissemination ?",
+                "topics": [
+                    {
+                        "title": "Payments Due",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                        "accuracy_percentage": "78",
+                        "feedback_percentage": "35"
+                    },
+                    {
+                        "title": "Travel time",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                        "accuracy_percentage": "67",
+                        "feedback_percentage": "25"
+                    },
+                    {
+                        "title": "Others",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+                        "accuracy_percentage": "67",
+                        "feedback_percentage": "40"
+                    }
+                ]
+            }
+        ]
+    }
+}
